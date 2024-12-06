@@ -1,0 +1,10 @@
+C:\Leibniz FH\Kniffel\bin\Debug\Kniffel.exe.config
+C:\Leibniz FH\Kniffel\bin\Debug\Kniffel.exe
+C:\Leibniz FH\Kniffel\bin\Debug\Kniffel.pdb
+C:\Leibniz FH\Kniffel\obj\Debug\Kniffel.csproj.AssemblyReference.cache
+C:\Leibniz FH\Kniffel\obj\Debug\Kniffel.Form1.resources
+C:\Leibniz FH\Kniffel\obj\Debug\Kniffel.Properties.Resources.resources
+C:\Leibniz FH\Kniffel\obj\Debug\Kniffel.csproj.GenerateResource.cache
+C:\Leibniz FH\Kniffel\obj\Debug\Kniffel.csproj.CoreCompileInputs.cache
+C:\Leibniz FH\Kniffel\obj\Debug\Kniffel.exe
+C:\Leibniz FH\Kniffel\obj\Debug\Kniffel.pdb
