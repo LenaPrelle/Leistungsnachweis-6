@@ -1,0 +1,10 @@
+C:\Users\H32927\source\repos\aufgabe_6b\bin\Debug\aufgabe_6b.exe.config
+C:\Users\H32927\source\repos\aufgabe_6b\bin\Debug\aufgabe_6b.exe
+C:\Users\H32927\source\repos\aufgabe_6b\bin\Debug\aufgabe_6b.pdb
+C:\Users\H32927\source\repos\aufgabe_6b\obj\Debug\aufgabe_6b.csproj.AssemblyReference.cache
+C:\Users\H32927\source\repos\aufgabe_6b\obj\Debug\aufgabe_6b.Form1.resources
+C:\Users\H32927\source\repos\aufgabe_6b\obj\Debug\aufgabe_6b.Properties.Resources.resources
+C:\Users\H32927\source\repos\aufgabe_6b\obj\Debug\aufgabe_6b.csproj.GenerateResource.cache
+C:\Users\H32927\source\repos\aufgabe_6b\obj\Debug\aufgabe_6b.csproj.CoreCompileInputs.cache
+C:\Users\H32927\source\repos\aufgabe_6b\obj\Debug\aufgabe_6b.exe
+C:\Users\H32927\source\repos\aufgabe_6b\obj\Debug\aufgabe_6b.pdb
