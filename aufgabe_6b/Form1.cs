@@ -12,9 +12,9 @@ using System.Windows.Forms;
 
 /** Dieses Programm überprüft die Nutzereingabe in textBox1. Es dürfen Ziffern, Kommas, Punkte, Plus und Minus 
     enthalten sein.
-    Plus und Minus dürfen nur an 1. Position stehen. Dahiner darf nur eine Ziffer folgen.
-    Kommas und Punkte dürfen nicht doppelt vorkommen und dürfen weder an erster noch an letzter Stelle stehen.
-    Buchstaben, Leerzeichen und andere Sonderzeichen nicht nicht erlaubt.
+    Plus und Minus dürfen nur an 1. Position stehen. Dahinter darf nur eine Ziffer folgen.
+    Kommas und Punkte dürfen nicht doppelt vorkommen und dürfen weder an 1. noch an letzter Stelle stehen.
+    Buchstaben, Leerzeichen und andere Sonderzeichen sind nicht erlaubt.
  **/
 
 namespace aufgabe_6b
@@ -26,7 +26,6 @@ namespace aufgabe_6b
             InitializeComponent();
         }
         private void button1_Click(object sender, EventArgs e)
-
         {
             string benutzereingabe = textBox1.Text;
             bool istGueltig = PruefeEingabe(benutzereingabe);
@@ -104,8 +103,8 @@ namespace aufgabe_6b
 
         private bool PruefePlusMinusPosition(string eingabe)
         {
-            for (int i = 1; i < eingabe.Length; i++) // Checkt erst ab der 2. Stelle. Eingabe.length ist immer
-                                                     // 1 größer als Index, daher i < eingabe.Lenght.
+            for (int i = 1; i < eingabe.Length; i++) // Checkt erst ab der 2. Stelle. Eingabe.Length ist immer
+                                                     // 1 größer als Index, daher i < eingabe.Lenght und nicht kleiner gleich.
             {
                  if (eingabe[i] == '+' || eingabe[i] == '-')
                  {
